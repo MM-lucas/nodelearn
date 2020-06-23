@@ -1,0 +1,23 @@
+header {
+  background:grey;
+  text-align:center;
+  text-family: 'Lora';
+}
+
+.logo {
+  color:#fff;
+  font-family:'Ubuntu';
+  text-align: center;
+}
+
+header input {
+  font-size: 29px;
+  margin: 20px 0px 20px 5px;
+}
+
+
+.fon {
+    font-family: 'Ubuntu';
+    padding: 20px 20px 0px 20px;
+    box-sizing: border-box;
+}
